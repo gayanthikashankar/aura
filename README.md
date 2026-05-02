@@ -1,4 +1,4 @@
-# Aura — Agentic Meeting Intelligence
+# Aura: Agentic Meeting Intelligence
 
 Built at the **Build with AI: App Roadshows** event with AntiGravity.
 

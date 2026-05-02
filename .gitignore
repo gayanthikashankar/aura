@@ -1,0 +1,27 @@
+# Built artifacts
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+
+# App build outputs
+/app/build/
+
+# Sensitive / local-only docs
+context.md
+video.md
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json

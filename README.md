@@ -1,6 +1,6 @@
 # Aura — Agentic Meeting Intelligence
 
-Built at the **Build with AI: App Roadshows** event.
+Built at the **Build with AI: App Roadshows** event with AntiGravity.
 
 Aura is an on-device Android app that turns meeting recordings into structured intelligence — decisions, action items, and personalized follow-up drafts — powered by the Gemini API.
 
